@@ -65,6 +65,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\IResizeService.cs" />
     <Compile Include="RegionNames.cs" />
     <Compile Include="NLogAdapter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
